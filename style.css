@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.cp{
+    height: 50px;
+    width: 50px;
+    border: 2px solid blueviolet;
+    float: right;
+    border-radius: 50px;
+    margin: 10px;
+    box-shadow: 0 0 10px 5px green;
+    cursor: progress;
+}
+
+#cp1{
+    background-color: red;
+}
+#cp2{
+    background-color: green;
+}
+#cp3{
+    background-color: blue;
+}
+#cp4{
+    background-color: black;
+}
+#cp5{
+    background-color: orange;
+}
+#cp6{
+    background-color: maroon;
+}
+#cp7{
+    background-color: yellow;
+}
+#cp8{
+    background-color: olive;
+}
